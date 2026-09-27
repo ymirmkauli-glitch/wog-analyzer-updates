@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "app_id": "war-genesis-farm-analyzer",
+  "version": "6.2",
+  "download_url": "https://github.com/ymirmkauli-glitch/wog-analyzer-updates/releases/download/v6.2/WarGenesisFarmAnalyzer-Setup-v6.2.exe",
+  "sha256": "2A3A99188F34C7EBC2F8D6FB0074F1D515C761A6C1DFAA9ECC1132CCE50C8055",
+  "size": 84257626,
+  "notes": "Atualização segura integrada, assinatura RSA-3072, leitor de equipamentos aprimorado, monitor remoto e correções gerais.",
+  "published_at": "2026-09-27T10:24:05.9607569Z",
+  "signature": "DuTgzgcGcyouzb/qDE7PjO6PZRrDZUPkGwoh7balq1dTN0NKBZvsjqA3v4fdRGg2JBxcyxLSpYcdv9mhalDBXK9C86aJFWH+QrTkxDiFu+7UwTk+XC89mxNf/FyYwoBFyoVgiyY06B9+lJxZT8cPZCcHrVFiNjVtcYUBeuSnC0Oh5IjJ/7O21HFo2NVXJvz0b4iPyWLcr3shmSJRiK9TZ5C3ttd32TgfjnYnT9sKAXz+ygoYOYfAPr2IhHJNk9/u6syOWV44rkmgZrqrhjwgVgMRd/dl7+ZynUuBzzkzSuahvbr+01u3YK87uHzDhhXYsGVecabht1bonHAZHJZdJMVmRHwYwSQBmjxxTLcqtQC//QuAvGp+WhPS8tbc3+bDneSfnwhj7B0S0Jp4flogAYfCsSuTAzsW/+1Dnbv2KR1/tGnS0rjDZDn1D5arcE2f26MRGC6f8V+yxLNb0S42dVfhq4/TZTbn87oJAkW9Kj7ddtVMogpDem8VvNDofQ3y"
+}
