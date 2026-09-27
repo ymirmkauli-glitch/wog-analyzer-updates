@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "app_id": "war-genesis-farm-analyzer",
-  "version": "6.2",
-  "download_url": "https://github.com/ymirmkauli-glitch/wog-analyzer-updates/releases/download/v6.2/WarGenesisFarmAnalyzer-Setup-v6.2.exe",
-  "sha256": "2A3A99188F34C7EBC2F8D6FB0074F1D515C761A6C1DFAA9ECC1132CCE50C8055",
-  "size": 84257626,
-  "notes": "Atualização segura integrada, assinatura RSA-3072, leitor de equipamentos aprimorado, monitor remoto e correções gerais.",
-  "published_at": "2026-09-27T10:24:05.9607569Z",
-  "signature": "DuTgzgcGcyouzb/qDE7PjO6PZRrDZUPkGwoh7balq1dTN0NKBZvsjqA3v4fdRGg2JBxcyxLSpYcdv9mhalDBXK9C86aJFWH+QrTkxDiFu+7UwTk+XC89mxNf/FyYwoBFyoVgiyY06B9+lJxZT8cPZCcHrVFiNjVtcYUBeuSnC0Oh5IjJ/7O21HFo2NVXJvz0b4iPyWLcr3shmSJRiK9TZ5C3ttd32TgfjnYnT9sKAXz+ygoYOYfAPr2IhHJNk9/u6syOWV44rkmgZrqrhjwgVgMRd/dl7+ZynUuBzzkzSuahvbr+01u3YK87uHzDhhXYsGVecabht1bonHAZHJZdJMVmRHwYwSQBmjxxTLcqtQC//QuAvGp+WhPS8tbc3+bDneSfnwhj7B0S0Jp4flogAYfCsSuTAzsW/+1Dnbv2KR1/tGnS0rjDZDn1D5arcE2f26MRGC6f8V+yxLNb0S42dVfhq4/TZTbn87oJAkW9Kj7ddtVMogpDem8VvNDofQ3y"
+  "version": "6.3",
+  "download_url": "https://github.com/ymirmkauli-glitch/wog-analyzer-updates/releases/download/v6.3/WarGenesisFarmAnalyzer-Setup-v6.3.exe",
+  "sha256": "1AB19F3B6AF7F00CB8F11D8BE2B4A912B0DDC27FC6FB6D5473174E0780DFB8C4",
+  "size": 84269565,
+  "notes": "Ajuda contextual com exemplos, guia pesquisável, Central de saúde, diagnóstico aprimorado do leitor de equipamentos e correções gerais de estabilidade.",
+  "published_at": "2026-09-27T14:35:25.4697832Z",
+  "signature": "IiHBIMxx6tnd1AS8iCiRki4GVtHCG07xnTPzykUEduqzukGowgzHAxH2bcUhWkKqtJy83scqH7qs0j0+sPrfirx4efYrl9B8AOCZVbG7DQEvuzIbdlOqn8vkZt1WBKKuD+Y4f5u/wvcvkqVg6c1PvxfkyYoTgmJ0AmEDnzEaQAA9pDXgdqXwiGEx2K7zUMhWsfvQjvuyPtC8cwvpCEKiZVJa3NTIcBl+JrxuXTTZ3cUD8OFbZ7e0VW5iSd6MDZuGPGAcKMJbntOMvYSwCdycJR6tTFBMCw4QsxUUh+oCQvwAkDlOwkiZOnkRtbhERQ01UVQW+CB6meIWeZrluRAGbxlY8V+kqhALtn4InsFPVykSL7Th+3HqrtxByyf+9RXEfR6vT15V7n8jpdNv0rnKScgrvspqlCqLgBRajgFZp7dma0KMGe3Vp3sUwERAJqq/KW801OrfiqDHJyoneGWafpnacpw8aPaLr2+4Jzv2BN3PIWsF2j8YSJdX5ew6VczH"
 }
