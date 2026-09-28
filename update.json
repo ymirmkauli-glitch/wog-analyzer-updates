@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "app_id": "war-genesis-farm-analyzer",
-  "version": "6.3",
-  "download_url": "https://github.com/ymirmkauli-glitch/wog-analyzer-updates/releases/download/v6.3/WarGenesisFarmAnalyzer-Setup-v6.3.exe",
-  "sha256": "1AB19F3B6AF7F00CB8F11D8BE2B4A912B0DDC27FC6FB6D5473174E0780DFB8C4",
-  "size": 84269565,
-  "notes": "Ajuda contextual com exemplos, guia pesquisável, Central de saúde, diagnóstico aprimorado do leitor de equipamentos e correções gerais de estabilidade.",
-  "published_at": "2026-09-27T14:35:25.4697832Z",
-  "signature": "IiHBIMxx6tnd1AS8iCiRki4GVtHCG07xnTPzykUEduqzukGowgzHAxH2bcUhWkKqtJy83scqH7qs0j0+sPrfirx4efYrl9B8AOCZVbG7DQEvuzIbdlOqn8vkZt1WBKKuD+Y4f5u/wvcvkqVg6c1PvxfkyYoTgmJ0AmEDnzEaQAA9pDXgdqXwiGEx2K7zUMhWsfvQjvuyPtC8cwvpCEKiZVJa3NTIcBl+JrxuXTTZ3cUD8OFbZ7e0VW5iSd6MDZuGPGAcKMJbntOMvYSwCdycJR6tTFBMCw4QsxUUh+oCQvwAkDlOwkiZOnkRtbhERQ01UVQW+CB6meIWeZrluRAGbxlY8V+kqhALtn4InsFPVykSL7Th+3HqrtxByyf+9RXEfR6vT15V7n8jpdNv0rnKScgrvspqlCqLgBRajgFZp7dma0KMGe3Vp3sUwERAJqq/KW801OrfiqDHJyoneGWafpnacpw8aPaLr2+4Jzv2BN3PIWsF2j8YSJdX5ew6VczH"
+  "version": "6.3.1",
+  "download_url": "https://github.com/ymirmkauli-glitch/wog-analyzer-updates/releases/download/v6.3.1/WarGenesisFarmAnalyzer-Setup-v6.3.1.exe",
+  "sha256": "5861C2611FC8E8B4C258C27FC10FAEF9F49E7110C6674C55C953D8D00D2E300E",
+  "size": 84406125,
+  "notes": "Corrige o erro CERTIFICATE_VERIFY_FAILED no download de atualizações, inclui autoridades certificadoras confiáveis e mantém todas as validações de segurança do instalador.",
+  "published_at": "2026-09-28T11:14:13.8138327Z",
+  "signature": "sMoMrzOr4yEjjSPBKtOTK2vszdzY8gzVr/igdp+KrbqJ+NNrQRqguv2ROMhdQLRrvxTkQTglAleYCratl6Q48BzVBmGyBAQRFu+QNgPJtj48/juAxKbbIfpynvocN3GWPr9jqM81zK5vntltlFZUZF/n78QC1C69gxHKWuYbqtL1W6VtaKyC0BGqoUKSJ2D5Ab9sm0Ytv50UVgpC+vClhAFRpSkZzyWiQM9oN8HtEstH0AVyIYyK4QhkOuzyFbnvcWq0pYpSPYPlRSXiTUR4oPtfjbzg0fKPyPq5juTJ4SdsHcPRXAJ2dYpQfOLFVyu5pjDmnLColkGrVdrRtFe8EmGy8UA3gV5F+okvATJXWRicKI7TP3AVB9B6fbkIdGVVnaFT9sQL0380aVIXMBsZSvU7wBbSAbWhKgfogZMVSRX+w6UjTzMJAKb11mdIuvqFscihsXVUEJKIiDbhWATe4YbPnGkQxZvln3GawDZcT05dul6JqrWIoOJ+NT0jhLfo"
 }
