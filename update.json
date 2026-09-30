@@ -1,11 +1,11 @@
-{
-  "schema": 1,
-  "app_id": "war-genesis-farm-analyzer",
-  "version": "6.3.1",
-  "download_url": "https://github.com/ymirmkauli-glitch/wog-analyzer-updates/releases/download/v6.3.1/WarGenesisFarmAnalyzer-Setup-v6.3.1.exe",
-  "sha256": "5861C2611FC8E8B4C258C27FC10FAEF9F49E7110C6674C55C953D8D00D2E300E",
-  "size": 84406125,
-  "notes": "Corrige o erro CERTIFICATE_VERIFY_FAILED no download de atualizações, inclui autoridades certificadoras confiáveis e mantém todas as validações de segurança do instalador.",
-  "published_at": "2026-09-28T11:14:13.8138327Z",
-  "signature": "sMoMrzOr4yEjjSPBKtOTK2vszdzY8gzVr/igdp+KrbqJ+NNrQRqguv2ROMhdQLRrvxTkQTglAleYCratl6Q48BzVBmGyBAQRFu+QNgPJtj48/juAxKbbIfpynvocN3GWPr9jqM81zK5vntltlFZUZF/n78QC1C69gxHKWuYbqtL1W6VtaKyC0BGqoUKSJ2D5Ab9sm0Ytv50UVgpC+vClhAFRpSkZzyWiQM9oN8HtEstH0AVyIYyK4QhkOuzyFbnvcWq0pYpSPYPlRSXiTUR4oPtfjbzg0fKPyPq5juTJ4SdsHcPRXAJ2dYpQfOLFVyu5pjDmnLColkGrVdrRtFe8EmGy8UA3gV5F+okvATJXWRicKI7TP3AVB9B6fbkIdGVVnaFT9sQL0380aVIXMBsZSvU7wBbSAbWhKgfogZMVSRX+w6UjTzMJAKb11mdIuvqFscihsXVUEJKIiDbhWATe4YbPnGkQxZvln3GawDZcT05dul6JqrWIoOJ+NT0jhLfo"
+﻿{
+    "schema":  1,
+    "app_id":  "war-genesis-farm-analyzer",
+    "version":  "6.3.2",
+    "download_url":  "https://github.com/ymirmkauli-glitch/wog-analyzer-updates/releases/download/v6.3.2/WarGenesisFarmAnalyzer-Setup-v6.3.2.exe",
+    "sha256":  "3CA53D287FF6AB4880DBB6F19868AA7158F63381A6F2B3916AED416CB07616FD",
+    "size":  85293861,
+    "notes":  "Melhora a estabilidade da Combinação, corrige contagens de Acessórios e Joias, reforça a confirmação visual antes de Registro e Combinar, melhora a recuperação automática da Ferraria e exibe o ícone próprio do Analyzer na barra de tarefas.",
+    "published_at":  "2026-09-30T17:44:06.6259956Z",
+    "signature":  "TyqlDhoMHU2bUpaAxU3A6u1H5FfWKrunD303RZq7i7ihlkotzMXlSZaFQ7wX0P4rA70B2wjAbdR4WYtcffQ1jUKA3ERR2uC3/9G6cWX5mKM/LClZwajG27euzbvHbzf2NjhXkKJHbpzBtXU9VmtcvCsAspP+XJz5l57snZoD1hX02QRU/8aWRu/CkK5eLH0Z1zBH5ZSilOAJoPRCedgBzV3eQ1eniakj5oszo2xq0P7gs6tAUy5ZpKCbBhYzzgoxghPubBYb780fkZEAKZlS5FIasrujv+7LV8V93F4NPVcdCzZORReBJj471CkhNsrg6YMgO00pNNyDbd4/Fk5liVaLRMIqL/3jdnESVBim/pgxE5zE+1KKfnyESE/cR6ACqOMOyoXM0KXc7iqw6ezCD2IBM+IaMG9aq6hG37G5o2vVAkl/Z6c0OOjYcmTofZZrp6kYKGO08xuGtIBq5bhguZ/JEE8Wtol2UAI+GtaHFKYxIbQS17J6qjNkqO1IfqnI"
 }
